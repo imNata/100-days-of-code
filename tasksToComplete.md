@@ -1,4 +1,4 @@
 # Number Of Tasks = 2
 
-* 1. Coding
-* 2. Blockchain
+* 1. Coding [View Log](codingLog.md)
+* 2. Blockchain [View Log](blockchainLog.md)
