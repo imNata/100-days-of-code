@@ -6,10 +6,13 @@
 **Today's Progress**: 
 * Learned about Varibales, Printing, Displaying in console. 
 * Swapping two numbers
+* 
 **Important**:
 * Naming Convention (Camel Case)
+* 
 **Thoughts**:
 * Look for the basic functions like stringName.length etc.
+* 
 **Link To Work**:
 * --
 
