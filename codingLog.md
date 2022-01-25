@@ -2,16 +2,17 @@
 
 
 
-## Day 1: January 25, 2022 (Jvascript Basic)
+## Day 1: January 25, 2022 (Javascript Basic)
 **Today's Progress**: 
 * Learned about Varibales, Printing, Displaying in console. 
 * Swapping two numbers
+* Slice, length function
 
 **Important**:
 * Naming Convention (Camel Case)
  
 **Thoughts**:
-* Look for the basic functions like stringName.length etc.
+* --
  
 **Link To Work**:
 * --
