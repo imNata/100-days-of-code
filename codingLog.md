@@ -2,7 +2,7 @@
 
 
 
-## Day 1: January 25, 2022 (Javascript Basic)
+## Day 1: January 25, 2022 (Javascript Basic - Strings)
 **Today's Progress**: 
 * Learned about Varibales, Printing, Displaying in console. 
 * Swapping two numbers
