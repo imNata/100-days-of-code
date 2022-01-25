@@ -1,4 +1,4 @@
-#Number Of Tasks = 2
+# Number Of Tasks = 2
 
-1. JavaScript
-2. Blockchain
+* 1. Coding
+* 2. Blockchain
