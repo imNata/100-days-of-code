@@ -19,14 +19,15 @@
 
 
 
-## Day 2: January 26, 2022 ()
+## Day 2: January 26, 2022 (JavaScript Basics - Numbers, Functions)
 **Today's Progress**: 
-*
+* Learned About Funcitons and operations with Numbers.
+* Did some coding exercise and logic Building.
 **Important**:
-*
+* Keeping the code DRY (Don't Repeat Yourself)
 **Thoughts**:
-*
+* - 
 **Link To Work**:
-*
+* [ChessBoard Pattern](https://stanford.edu/~cpiech/karel/ide.html)
 
 
