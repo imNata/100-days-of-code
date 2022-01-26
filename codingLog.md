@@ -28,7 +28,7 @@
 * Keeping the code DRY (Don't Repeat Yourself)
 
 **Thoughts**:
-* - 
+* --
 
 **Link To Work**:
 * [ChessBoard Pattern](https://stanford.edu/~cpiech/karel/ide.html)
